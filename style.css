@@ -10,12 +10,11 @@
 
 body{
   background: url(./planet-gf8e0e41f1_1920.jpg);
+  overflow-x: hidden;
 }
 * {
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
-  width: 5000px;
 }
 
 .main {
